@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # car-hub
-=======
 <div align="center">
   <br />
     <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
@@ -127,6 +125,3 @@ Enjoyed creating this project? Dive deeper  for a richer learning adventure. The
 
 <br />
 <br />
-
-#
->>>>>>> c4867e1071c17387e693cf2ea14e06b34bae92c7
